@@ -6,6 +6,7 @@
     "lint": "eslint src/js/",
     "storybook": "start-storybook -p 9009",
     "build-storybook": "build-storybook",
+    "output-storybook": "build-storybook -c .storybook -o docs/storybook/",
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
     "test:contracts": "embark test",
