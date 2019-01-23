@@ -250,8 +250,8 @@
   "deploy": true,
   "_gasLimit": 6000000,
   "error": false,
-  "deploymentAccount": "0xB7CA4510cc424523c6B515D0E2Ce9868Cb686bd5",
+  "deploymentAccount": "0xd9d75359BFedb808D03a123917a37e0DD90cb854",
   "realArgs": [],
-  "address": "0x046430E9f54673AC16D3f0F1827a61b694B42f22",
-  "deployedAddress": "0x046430E9f54673AC16D3f0F1827a61b694B42f22"
+  "address": "0xB24267Bd01666C39e58e60e43E93720648f36F5C",
+  "deployedAddress": "0xB24267Bd01666C39e58e60e43E93720648f36F5C"
 }
