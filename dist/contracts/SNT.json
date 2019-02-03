@@ -703,9 +703,9 @@
   "type": "instance",
   "_gasLimit": 6000000,
   "error": false,
-  "deploymentAccount": "0xd9d75359BFedb808D03a123917a37e0DD90cb854",
+  "deploymentAccount": "0x9859a7D38f6178d08576997E482256e7079f2ECb",
   "realArgs": [
-    "0x6f2A0a8C2F873b1B98E26690f2772b65846f0e5C",
+    "0xc506cF612b134b7314Fe15a5db573C8a9591cfB0",
     "0x0000000000000000000000000000000000000000",
     0,
     "TestMiniMeToken",
@@ -713,6 +713,6 @@
     "STT",
     true
   ],
-  "address": "0x729DE25E0dc6f71640417D9A28eB08429e871844",
-  "deployedAddress": "0x729DE25E0dc6f71640417D9A28eB08429e871844"
+  "address": "0x6850e8e07588cA30f0DDC1853e6D95d6638073a8",
+  "deployedAddress": "0x6850e8e07588cA30f0DDC1853e6D95d6638073a8"
 }

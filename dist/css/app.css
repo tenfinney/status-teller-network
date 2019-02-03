@@ -1,6 +1,129 @@
+$search-field-height: 38px;
+$autocomplete-height: 157px;
+
+.map-container {
+  height: 88%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  .map-search-form {
+    position: absolute;
+    bottom: 7px !important;
+    left: 10px !important;
+    right: 60px !important;
+    top: auto !important;
+
+    input {
+      height: $search-field-height;
+    }
+
+    .search-icon {
+      top: 10px;
+    }
+  }
+
+  .gm-style-iw {
+    text-align: center;
+
+    .btn {
+      width: 100%;
+    }
+  }
+}
+
+.pac-container {
+  height: $autocomplete-height;
+  margin-top: - ($autocomplete-height + $search-field-height);
+}
+
+.seller-profile {
+  .map-container {
+    position: relative;
+    height: 130px;
+    margin-top: 16px;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+}
+
 @import "../../node_modules/bootstrap/scss/functions";
 @import "../../node_modules/bootstrap/scss/variables";
 
 .is-invalid-input {
   border-color: $danger;
+}
+
+@keyframes spinner {
+  to {transform: rotate(360deg);}
+}
+
+.loading{
+  animation: spinner 1s linear infinite;
+  margin-right: 8px;
+}
+
+.input-group-append {
+  height: calc(2.25rem + 2px);
+}
+
+.prepend {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.append {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.full-width-input.input-group > div:first-child {
+  flex: 1 1 auto;
+  width: 1%;
+}
+
+.search-bar {
+  position: relative;
+}
+
+.input-icon {
+  position: absolute;
+  right: 10px;
+  top: 6px;
+}
+
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
+.asset-btns {
+  width: 100%;
+
+  .btn {
+    text-align: left;
+    box-shadow: none !important;
+    text-decoration: none !important;
+    color: $yiq-text-dark;
+    font-size: 1.2em;
+
+    &.active {
+      .fa-check {
+        float: right;
+        margin-top: 5px;
+      }
+    }
+  }
+
+  &.market-btns {
+    .btn {
+      text-align: center;
+      background-color: transparent;
+      color: $yiq-text-dark;
+
+      &.active {
+        background-color: transparent;
+        color: $primary;
+      }
+    }
+  }
 }
