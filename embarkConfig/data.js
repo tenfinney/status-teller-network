@@ -10,17 +10,19 @@ module.exports = async (licensePrice, arbitrationLicensePrice, feeAmount, deps) 
       return;
     }
 
-    console.log("Seeding data...");
+    console.log("======= Seeding data...");
+    console.dir(main)
 
-    console.log('Send ETH...');
+    console.log('======= Send ETH...');
     const value = 100 * Math.pow(10, 18);
-    await Promise.all(addresses.slice(1, 10).map(async (address) => {
-      return deps.web3.eth.sendTransaction({
-        to: address,
-        from: main,
-        value: value.toString()
-      });
-    }));
+    // await Promise.all(addresses.slice(1, 10).map(async (address) => {
+    //   return deps.web3.eth.sendTransaction({
+    //     to: address,
+    //     from: main,
+    //     gas: 100*1000,
+    //     value: value.toString()
+    //   });
+    // }));
 
     console.log('Generate SNT...');
     await Promise.all(addresses.map(async (address) => {
@@ -120,10 +122,10 @@ module.exports = async (licensePrice, arbitrationLicensePrice, feeAmount, deps) 
       await rate.send({from: buyerAddress, gas: gas + 1000});
     }));
 
-    
+
     console.log('Creating arbitrations');
 
-    
+
     await Promise.all(addresses.slice(escrowStartIndex, 5).map(async (creatorAddress, idx) => {
       const ethOfferId = offerReceipts[idx - offerStartIndex + escrowStartIndex].events.OfferAdded.returnValues.offerId;
       let gas, receipt;
@@ -141,7 +143,7 @@ module.exports = async (licensePrice, arbitrationLicensePrice, feeAmount, deps) 
       const pay = deps.contracts.Escrow.methods.pay(escrowId);
       gas = await pay.estimateGas({from: buyerAddress});
       receipt = await pay.send({from: buyerAddress, gas: gas + 1000});
-      
+
       const openCase = deps.contracts.Escrow.methods.openCase(escrowId);
       gas = await openCase.estimateGas({from: buyerAddress});
       receipt = await openCase.send({from: buyerAddress, gas: gas + 1000});

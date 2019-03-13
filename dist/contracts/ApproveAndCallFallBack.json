@@ -35,7 +35,8 @@
       "outputs": [],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "function"
+      "type": "function",
+      "signature": "0x8f4ffcb1"
     }
   ],
   "filename": "token/ApproveAndCallFallBack.sol",

@@ -38,7 +38,8 @@
       ],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "function"
+      "type": "function",
+      "signature": "0x4a393149"
     },
     {
       "constant": false,
@@ -65,7 +66,8 @@
       ],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "function"
+      "type": "function",
+      "signature": "0xda682aeb"
     },
     {
       "constant": false,
@@ -84,7 +86,8 @@
       ],
       "payable": true,
       "stateMutability": "payable",
-      "type": "function"
+      "type": "function",
+      "signature": "0xf48c3054"
     }
   ],
   "filename": "token/TokenController.sol",

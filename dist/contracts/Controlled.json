@@ -24,7 +24,8 @@
       "outputs": [],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "function"
+      "type": "function",
+      "signature": "0x3cebb823"
     },
     {
       "constant": true,
@@ -38,7 +39,8 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "signature": "0xf77c4791"
     },
     {
       "inputs": [],
