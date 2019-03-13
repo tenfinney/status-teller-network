@@ -554,8 +554,7 @@
       ],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "constructor",
-      "signature": "constructor"
+      "type": "constructor"
     },
     {
       "payable": false,
@@ -746,8 +745,7 @@
   "filename": "teller-network/MetadataStore.sol",
   "originalFilename": "contracts/teller-network/MetadataStore.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/teller-network/MetadataStore.sol",
-  "gas": 3101268,
-  "gasPrice": "1000000000",
+  "gas": "auto",
   "type": "file",
   "deploy": true,
   "_gasLimit": 6000000,
@@ -756,6 +754,6 @@
   "realArgs": [
     "0x9bCdcBB324b466316531E44FF00b6a4f1354Fd04"
   ],
-  "deployedAddress": "0x95E469bca3B55A3525a73014C98E76836B2E1926",
-  "transactionHash": "0x81f1e42e76a58fd6868c625dfb1ecf10c12d11a54354ca2ee4b0e51eb68441b8"
+  "address": "0x95E469bca3B55A3525a73014C98E76836B2E1926",
+  "deployedAddress": "0x95E469bca3B55A3525a73014C98E76836B2E1926"
 }

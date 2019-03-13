@@ -604,8 +604,7 @@
       ],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "constructor",
-      "signature": "constructor"
+      "type": "constructor"
     },
     {
       "payable": true,
@@ -700,8 +699,7 @@
       "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925"
     }
   ],
-  "gas": 2152839,
-  "gasPrice": "1000000000",
+  "gas": "auto",
   "type": "instance",
   "_gasLimit": 6000000,
   "error": false,
@@ -715,6 +713,6 @@
     "STT",
     true
   ],
-  "deployedAddress": "0x9Cec32D6553Ee06be238f18997b61AD18372F116",
-  "transactionHash": "0x5baf2b3654ee5ec50978e52d5af472d54ad03e6d46e56ea3cfc04c0a7391b73e"
+  "address": "0x9Cec32D6553Ee06be238f18997b61AD18372F116",
+  "deployedAddress": "0x9Cec32D6553Ee06be238f18997b61AD18372F116"
 }

@@ -193,8 +193,7 @@
       "inputs": [],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "constructor",
-      "signature": "constructor"
+      "type": "constructor"
     },
     {
       "anonymous": false,
@@ -246,14 +245,13 @@
   "filename": "test/StandardToken.sol",
   "originalFilename": "contracts/test/StandardToken.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/test/StandardToken.sol",
-  "gas": 383065,
-  "gasPrice": "1000000000",
+  "gas": "auto",
   "type": "file",
   "deploy": true,
   "_gasLimit": 6000000,
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
   "realArgs": [],
-  "deployedAddress": "0x8Ef55f0b737e85711221797e48c537A9a4819840",
-  "transactionHash": "0xa8091ca4ccc92ccee145d8a3921adff81b2907c56810cd84693ff57edae7f76b"
+  "address": "0x8Ef55f0b737e85711221797e48c537A9a4819840",
+  "deployedAddress": "0x8Ef55f0b737e85711221797e48c537A9a4819840"
 }
