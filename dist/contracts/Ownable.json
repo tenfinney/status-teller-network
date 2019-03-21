@@ -94,7 +94,7 @@
       "signature": "0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0"
     }
   ],
-  "filename": "common/Ownable.sol",
+  "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/common/Ownable.sol",
   "originalFilename": "contracts/common/Ownable.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/common/Ownable.sol",
   "gas": "auto",

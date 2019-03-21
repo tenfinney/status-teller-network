@@ -16,7 +16,7 @@
       "type": "constructor"
     }
   ],
-  "filename": "common/MessageSigned.sol",
+  "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/common/MessageSigned.sol",
   "originalFilename": "contracts/common/MessageSigned.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/common/MessageSigned.sol",
   "gas": "auto",

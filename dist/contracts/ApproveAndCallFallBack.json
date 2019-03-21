@@ -39,7 +39,7 @@
       "signature": "0x8f4ffcb1"
     }
   ],
-  "filename": "token/ApproveAndCallFallBack.sol",
+  "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/token/ApproveAndCallFallBack.sol",
   "originalFilename": "contracts/token/ApproveAndCallFallBack.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/token/ApproveAndCallFallBack.sol",
   "gas": "auto",

@@ -90,7 +90,7 @@
       "signature": "0xf48c3054"
     }
   ],
-  "filename": "token/TokenController.sol",
+  "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/token/TokenController.sol",
   "originalFilename": "contracts/token/TokenController.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/token/TokenController.sol",
   "gas": "auto",

@@ -392,7 +392,7 @@
       "signature": "0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925"
     }
   ],
-  "filename": "token/MiniMeTokenInterface.sol",
+  "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/token/MiniMeTokenInterface.sol",
   "originalFilename": "contracts/token/MiniMeTokenInterface.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/token/MiniMeTokenInterface.sol",
   "gas": "auto",
