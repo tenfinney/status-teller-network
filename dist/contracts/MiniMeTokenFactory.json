@@ -64,14 +64,13 @@
   "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/token/MiniMeTokenFactory.sol",
   "originalFilename": "contracts/token/MiniMeTokenFactory.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/token/MiniMeTokenFactory.sol",
-  "gas": 2510932,
-  "gasPrice": "1000000000",
+  "gas": "auto",
   "type": "file",
   "deploy": true,
   "_gasLimit": 6000000,
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
   "realArgs": [],
-  "deployedAddress": "0x3BEd33481f23a09EF1942428d2faa80B7b463DAF",
-  "transactionHash": "0x3221e58820b65fbd6a52b19c99ae327bf7bdea7962298d247b11570907f6e137"
+  "address": "0x3BEd33481f23a09EF1942428d2faa80B7b463DAF",
+  "deployedAddress": "0x3BEd33481f23a09EF1942428d2faa80B7b463DAF"
 }

@@ -844,8 +844,7 @@
       ],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "constructor",
-      "signature": "constructor"
+      "type": "constructor"
     },
     {
       "payable": false,
@@ -1089,8 +1088,7 @@
   "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/teller-network/Escrow.sol",
   "originalFilename": "contracts/teller-network/Escrow.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/teller-network/Escrow.sol",
-  "gas": 5670653,
-  "gasPrice": "1000000000",
+  "gas": "auto",
   "type": "file",
   "deploy": true,
   "_gasLimit": 6000000,
@@ -1104,6 +1102,6 @@
     "0x0000000000000000000000000000000000000001",
     "1000000000000000000"
   ],
-  "deployedAddress": "0x23A07B8516509ff88De630FeA910863F1246Cbd6",
-  "transactionHash": "0x0e515e3b6491edce2f57b8f5c1b8532fbb637338ef50c046490a9559e7b180ba"
+  "address": "0x23A07B8516509ff88De630FeA910863F1246Cbd6",
+  "deployedAddress": "0x23A07B8516509ff88De630FeA910863F1246Cbd6"
 }
