@@ -28,6 +28,7 @@ embarkConfig/production/password
 embarkConfig/livenet/password
 coverage
 dist
+embarkArtifacts
 node_modules
 src/embarkArtifacts
 .idea
