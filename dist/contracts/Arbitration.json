@@ -381,7 +381,7 @@
   "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/teller-network/Arbitration.sol",
   "originalFilename": "contracts/teller-network/Arbitration.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/teller-network/Arbitration.sol",
-  "gas": 886870,
+  "gas": 889057,
   "gasPrice": "1000000000",
   "type": "file",
   "deploy": true,
@@ -391,6 +391,6 @@
   "realArgs": [
     "0x688aEbC1125D5791871500a04cf853b857D6F2B2"
   ],
-  "deployedAddress": "0x7230E02659e94814E73291382A4eCF452155C9cA",
-  "transactionHash": "0x8a98377b9c73eeb8a30ab70fbc8e58712145845525fb7f64bf6a9d5255d9ee85"
+  "deployedAddress": "0x26f6F80DA12c401E8Bcd2C9aBD6F929e472481E6",
+  "transactionHash": "0x88c22eb378ea5820aac251ae7903913b50d127b0f46cd7e57cf2b6608b2854fe"
 }

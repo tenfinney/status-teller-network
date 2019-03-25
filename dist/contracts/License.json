@@ -366,7 +366,8 @@
       ],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "constructor"
+      "type": "constructor",
+      "signature": "constructor"
     },
     {
       "payable": false,
@@ -465,18 +466,19 @@
   "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/teller-network/License.sol",
   "originalFilename": "contracts/teller-network/License.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/teller-network/License.sol",
-  "gas": "auto",
+  "gas": 1539962,
+  "gasPrice": "1000000000",
   "type": "file",
   "deploy": true,
   "_gasLimit": 6000000,
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
   "realArgs": [
-    "0xbe963E8700C8d90b4d01820720bdfB6D823844A0",
+    "0xD017EdaC3589Dd08e49467455C8E1a5FbD621e39",
     "0x0000000000000000000000000000000000000000",
     "10000000000000000000",
     31536000
   ],
-  "address": "0xebd30DdC2CC3D10b3BF157930ADB423a155F4A66",
-  "deployedAddress": "0xebd30DdC2CC3D10b3BF157930ADB423a155F4A66"
+  "deployedAddress": "0xfa6a7b1192a4668F9e86a947A949b6bC5D0c4FDa",
+  "transactionHash": "0xadbf07e5daf4bde65d2004bf2307b5e52ed45df2f1024a80320205bdf0f21945"
 }

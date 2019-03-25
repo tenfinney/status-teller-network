@@ -607,7 +607,8 @@
       ],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "constructor"
+      "type": "constructor",
+      "signature": "constructor"
     },
     {
       "payable": true,
@@ -703,13 +704,14 @@
     }
   ],
   "linkReferences": {},
-  "gas": "auto",
+  "gas": 2187446,
+  "gasPrice": "1000000000",
   "type": "instance",
   "_gasLimit": 6000000,
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
   "realArgs": [
-    "0x3BEd33481f23a09EF1942428d2faa80B7b463DAF",
+    "0xD47cD784a89AFf14100fb6b06b71bdd75C772c07",
     "0x0000000000000000000000000000000000000000",
     0,
     "TestMiniMeToken",
@@ -717,6 +719,6 @@
     "STT",
     true
   ],
-  "address": "0xbe963E8700C8d90b4d01820720bdfB6D823844A0",
-  "deployedAddress": "0xbe963E8700C8d90b4d01820720bdfB6D823844A0"
+  "deployedAddress": "0xD017EdaC3589Dd08e49467455C8E1a5FbD621e39",
+  "transactionHash": "0xf46f10eef472293e7552f931c6b3a3c194e1433e6d2ebe42242429569859e035"
 }

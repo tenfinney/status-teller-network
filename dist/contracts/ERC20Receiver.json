@@ -111,7 +111,8 @@
       "inputs": [],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "constructor"
+      "type": "constructor",
+      "signature": "constructor"
     },
     {
       "anonymous": false,
@@ -163,13 +164,14 @@
   "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/token/ERC20Receiver.sol",
   "originalFilename": "contracts/token/ERC20Receiver.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/token/ERC20Receiver.sol",
-  "gas": "auto",
+  "gas": 547333,
+  "gasPrice": "1000000000",
   "type": "file",
   "deploy": true,
   "_gasLimit": 6000000,
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
   "realArgs": [],
-  "address": "0x8E30DB6d8D26bcF486715aa10c617Be408ADD39a",
-  "deployedAddress": "0x8E30DB6d8D26bcF486715aa10c617Be408ADD39a"
+  "deployedAddress": "0x64237E79Aa7902AeB0FDed786A9847639fbcf96F",
+  "transactionHash": "0x6226df39396ef6d996adfff5ee38cacb00b9baee72cd7fffac873535c27a707a"
 }

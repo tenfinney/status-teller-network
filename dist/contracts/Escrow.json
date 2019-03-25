@@ -1000,7 +1000,7 @@
   "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/teller-network/Escrow.sol",
   "originalFilename": "contracts/teller-network/Escrow.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/teller-network/Escrow.sol",
-  "gas": 5559038,
+  "gas": 5281109,
   "gasPrice": "1000000000",
   "type": "file",
   "deploy": true,
@@ -1008,13 +1008,13 @@
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
   "realArgs": [
-    "0xebd30DdC2CC3D10b3BF157930ADB423a155F4A66",
-    "0x7230E02659e94814E73291382A4eCF452155C9cA",
-    "0x5903913E1DC922d154C23315506E9A1B68FD2f47",
-    "0xbe963E8700C8d90b4d01820720bdfB6D823844A0",
+    "0xfa6a7b1192a4668F9e86a947A949b6bC5D0c4FDa",
+    "0x26f6F80DA12c401E8Bcd2C9aBD6F929e472481E6",
+    "0xce6866e3fA5F259714Bacd2e48516841390A44e5",
+    "0xD017EdaC3589Dd08e49467455C8E1a5FbD621e39",
     "0x0000000000000000000000000000000000000001",
     "1000000000000000000"
   ],
-  "deployedAddress": "0x7869BbeF9d05c413aD7bd792C51a4c2720fc30d2",
-  "transactionHash": "0x80e5fa4cf5c9ccb2e33278a5bc32f08f492c452f78d557423da112f6736be080"
+  "deployedAddress": "0xD7160706AadE8cbaAc77EBbAb86c12Ed67EB8C65",
+  "transactionHash": "0x73d73868b40391ffe84debffa2356a0a423a73a6e18995a6dab2ff1b6b1686ed"
 }
