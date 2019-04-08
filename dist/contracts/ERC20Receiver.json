@@ -164,7 +164,7 @@
   "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/token/ERC20Receiver.sol",
   "originalFilename": "contracts/token/ERC20Receiver.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/token/ERC20Receiver.sol",
-  "gas": 547333,
+  "gas": 538904,
   "gasPrice": "1000000000",
   "type": "file",
   "deploy": true,
@@ -172,6 +172,6 @@
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
   "realArgs": [],
-  "deployedAddress": "0x64237E79Aa7902AeB0FDed786A9847639fbcf96F",
-  "transactionHash": "0x6226df39396ef6d996adfff5ee38cacb00b9baee72cd7fffac873535c27a707a"
+  "deployedAddress": "0x81C0dc112B3Fe3b52fe5f44E4FF81b3Dcd7f26d7",
+  "transactionHash": "0x997603ed420416c5cf5979887edf46d6b178673c3a89695da99cdc5a32ba93be"
 }

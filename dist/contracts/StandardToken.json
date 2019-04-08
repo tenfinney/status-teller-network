@@ -246,7 +246,7 @@
   "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/test/StandardToken.sol",
   "originalFilename": "contracts/test/StandardToken.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/test/StandardToken.sol",
-  "gas": 406361,
+  "gas": 371367,
   "gasPrice": "1000000000",
   "type": "file",
   "deploy": true,
@@ -254,6 +254,6 @@
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
   "realArgs": [],
-  "deployedAddress": "0x8c9Bd850c70c7d4Ec5fC5867E77Ef101B463392F",
-  "transactionHash": "0xba5f173608d992cfc29032bab7b3912fefb9e125ee1837bb0611a00c967aa86c"
+  "deployedAddress": "0x4183a9ceAFe3EF0cf1c2AFCbFadd89E1B9624d3F",
+  "transactionHash": "0x4ab608507219b1d72edc25fe9362a2dc65395bb0b48d4bb72836802f8ff6e950"
 }

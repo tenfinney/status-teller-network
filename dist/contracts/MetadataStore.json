@@ -746,7 +746,7 @@
   "filename": "/Users/iurimatias/Projects/Status/status-teller-network/.embark/contracts/teller-network/MetadataStore.sol",
   "originalFilename": "contracts/teller-network/MetadataStore.sol",
   "path": "/Users/iurimatias/Projects/Status/status-teller-network/contracts/teller-network/MetadataStore.sol",
-  "gas": 3132641,
+  "gas": 3351028,
   "gasPrice": "1000000000",
   "type": "file",
   "deploy": true,
@@ -754,8 +754,8 @@
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
   "realArgs": [
-    "0xfa6a7b1192a4668F9e86a947A949b6bC5D0c4FDa"
+    "0xCB08d684E6211Bf20eAB76d49B97A6A81d622A2B"
   ],
-  "deployedAddress": "0xce6866e3fA5F259714Bacd2e48516841390A44e5",
-  "transactionHash": "0x9047ba78cc10a64d557ae83f0ebe0c244c873863b41a3e359ce7ab638275ea21"
+  "deployedAddress": "0x6A4D47Cfe4f5b9Baf507186AF826C3BcB6c7d685",
+  "transactionHash": "0x1495d72945fdb1c52a32028a3ff79ce2b19d81fc92f3b692585341a093fa3b3c"
 }
