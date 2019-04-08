@@ -6,7 +6,7 @@
     "lint": "eslint src/js/",
     "storybook": "start-storybook -p 9009",
     "build-storybook": "build-storybook",
-    "output-storybook": "build-storybook -c .storybook -o storybook/",
+    "output-storybook": "bjkkuild-storybook -c .storybook -o storybook/",
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
     "test:contracts": "embark test",
@@ -19,7 +19,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "",
+  "homepage": ".",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/plugin-proposal-class-properties": "^7.2.3",
