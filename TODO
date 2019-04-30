@@ -1,0 +1,46 @@
+
+* understand mailserver
+** TODO: need to add to pivotal
+** TODO: need mailserver(s) bridges, ENS resolver
+
+* understand contract recovery
+
+* find/do signature method
+* message builder
+* state machine
+** buyer
+** seller
+** arbitrator
+
+* contract method to make decision based on state channel
+
+    "murmur-client": "^0.4.1",
+    "status-js-api": "1.2",
+
+
+-------
+
+=> Complete channel api
+[_] add missing methods
+
+=> add basic steps to app
+[_] add intention to buy / send message
+[_] send message to accept
+
+=> add dispute steps
+[_] add dispute steps
+
+=> contract
+[_] add contract method to resolve dispute
+
+
+=> add mailserver recovery
+
+
+
+
+Questions / todo:
+
+=> messages need to be 'chained', contract probably needs a state machine
+=> api needs to be available on status
+
