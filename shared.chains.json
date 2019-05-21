@@ -100,6 +100,10 @@
       "0xf12d4ee375aee4508d2371dbfc38c2f484aa6ffae619d18512a21ff3d58b544e": {
         "name": "Escrow",
         "address": "0xeF354d6F1003Bd7e90b8D7E6eD04819A316764a7"
+      },
+      "0x2cfaa9e2724956a201dd16805176b90f48d9e57ccede38d817285961080f484e": {
+        "name": "Escrow",
+        "address": "0x752E01C4Faa49b7eC559b868e7d3A03ECB8bE846"
       }
     }
   }
